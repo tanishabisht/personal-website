@@ -9,11 +9,10 @@ const Home = () => {
         <title>Tanisha Bisht</title>
       </Head>
       <div>
-        {/* <HeroSection />
+        <HeroSection />
         <AboutSection />
         <TechSection />
-        <ExperienceSection /> */}
-        hi
+        <ExperienceSection />
       </div>
     </>
   )
