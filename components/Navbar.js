@@ -19,9 +19,7 @@ const Navbar = () => {
     <nav className="nav">
       <div className="nav__logo">
         <Link href="/">
-          {/* <a> */}
             <Image src="/favicon.ico" width={50} height={50} />
-          {/* </a> */}
         </Link>
         <span>TANISHA</span>
       </div>
