@@ -23,9 +23,7 @@ const Navbar = () => {
         </Link>
         <span>TANISHA</span>
       </div>
-      <Link href="/works">
-      works
-      </Link>
+      <Link href="/works">works</Link>
       <Link href="https://github.com/tanishabisht">
         github
       </Link>

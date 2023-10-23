@@ -11,11 +11,9 @@ const Layout = ({ children }) => {
         <body className="dark" />
       </Head>
       <div>
-        {router.pathname.includes("/writings/") === false ? (
-          <div className="circleBg"></div>
-        ) : null}
+        <div className="circleBg"></div>
         <Navbar />
-        <div className="layoutContainer">{children}</div>
+          <div className="layoutContainer">{children}</div>
         <Footer />
       </div>
     </>

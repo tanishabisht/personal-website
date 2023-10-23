@@ -10,5 +10,3 @@ export { default as ExperienceSection } from "./Home/Experience";
 export { default as SelectedProjects } from "./Work/SelectedProjects";
 export { default as Projects } from "./Work/Projects";
 export { default as Process } from "./Work/Process";
-
-export { default as BlogTemplate } from "./BlogTemplate";
